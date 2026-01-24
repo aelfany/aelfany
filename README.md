@@ -1,4 +1,4 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdellatif_Elfanu&show_icons=true&theme=tokyonight)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&width=500&lines=Hi+I'm+Abdellatif+Elfany;Software+Engineer;C%2FC%2B%2B+%7C+DevOps+%7C+Full+Stack;Always+Learning+New+Things)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellatif_Elfany&layout=compact&theme=tokyonight)
