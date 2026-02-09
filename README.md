@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdellatif Elfany</h1>
-<h3 align="center">DevOps & AI Data Engineer</h3>
+<h1 align="center">Hi, I'm Abdellatif Elfany</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-Building scalable systems, automating infrastructure, and engineering data pipelines.
+focused on backend systems, DevOps, and AI data engineering.
 </p>
 
 ---
