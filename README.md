@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&width=435&lines=Building+distributed+systems;Architecting+the+future;Coffee+into+Code;Automating+all+the+things)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=aelfany&fontSize=90&animation=fadeIn&fontAlignY=38)
